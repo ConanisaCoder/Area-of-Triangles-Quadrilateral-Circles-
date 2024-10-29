@@ -1,2 +1,2 @@
 # Area-of-Triangles-Quadrilateral-Circles-
-A python program that will calculate the area of a Triangle, Quadrilateral &amp; Circle
+This Python program calculates the Area or Perimeter of a Circle, Triangle, or quadrilateral. Follow along and Input what the program asks for, and note that it is Case-sensitive. 
