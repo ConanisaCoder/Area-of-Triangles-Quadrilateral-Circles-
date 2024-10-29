@@ -54,6 +54,4 @@ elif shape == "Q":
         S_2 = float(input("Length of Side 2: "))
         a = S_1 * S_1
         print(f"The area of the Parllogram is {a} unit² ")
-
-
-
+        Done = input("Press Enter When You Are Done: ")
